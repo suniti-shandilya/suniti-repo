@@ -1,9 +1,11 @@
 cities = {'CA' => 'San Francisco',
   'MI' => 'Detroit',
-  'FL' => 'Jacksonville' }
+  'FL' => 'Jacksonville' 
+  'NY' => 'New York'}
 
 cities['NY'] = 'New York'
 cities['OR'] = 'Portland'
+cities['NY'] = 'New York'
 
 def find_city(map, state)
   if map.include? state
