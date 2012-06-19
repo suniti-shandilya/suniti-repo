@@ -1,3 +1,4 @@
+# This is exercise.
 cities = {'CA' => 'San Francisco',
   'MI' => 'Detroit',
   'FL' => 'Jacksonville' }
